@@ -1,7 +1,7 @@
 # telematica_final.
-principalme y para comenzar, clonaremos el repositorio con el comando acontinuacion: git clone https://github.com/Daniel0574/telematica_final..git
+principalmente y para comenzar, clonaremos el repositorio con el comando a continuacion: git clone https://github.com/Daniel0574/telematica_final..git
 
- -pasos
+ -pasos:
  
  
 - Para iniciar el contenedor se ejecuta el siguiente comando: sudo docker build -t proyectofinal:01 .
