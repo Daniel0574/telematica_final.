@@ -4,6 +4,6 @@ principalme y para comenzar, clonaremos el repositorio con el comando acontinuac
  -pasos
  
  
- -Para iniciar el contenedor se ejecuta el siguiente comando: sudo docker build -t proyectofinal:01 .
+- Para iniciar el contenedor se ejecuta el siguiente comando: sudo docker build -t proyectofinal:01 .
 
 - Para ejecturar el servicio se usa el siguiente comando: sudo docker run -it -p 80:80 proyectofinal:01 python3 app.py
